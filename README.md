@@ -12,7 +12,3 @@ Toon een screenshot van de performance test.
 
 Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
 
-
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
