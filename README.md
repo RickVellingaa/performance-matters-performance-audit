@@ -4,11 +4,10 @@
 
 Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 
-## Titel Website
+## American Airlines
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+Voor de performance audit heb ik de website van American Airlines getest. Ik heb deze website getest op 18-04-2023. Ik heb de website van American Airlines getest aangezien hun een sponsor zijn van mijn favoriete NBA team, hierdoor was ik ook erg benieuwd hoe goed hun website precies is aangezien ook veel mensen het dagelijks bezoeken.
 
-Toon een screenshot van de performance test.
+![image](https://user-images.githubusercontent.com/112856287/233574958-0d5d03ef-2173-4087-8d22-37fea938227f.png)
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
-
+De resultaten van de performance audit waren niet echt heel goed,American airlines had op 3 metric een rode score gehaald.
